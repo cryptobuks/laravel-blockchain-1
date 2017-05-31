@@ -1,0 +1,12 @@
+{
+    "name": "ryangr0/laravel-blockchain",
+    "description": "Blockchain API implementation for Laravel 5.4+",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan Grippeling",
+            "email": "r.grippeling@hotmail.com"
+        }
+    ],
+    "require": {}
+}
